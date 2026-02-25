@@ -1,6 +1,5 @@
 # TikTok-gen-accounts
 # tiktokapi
-
 tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device register, tiktok api
 
 # TikTok Private API
